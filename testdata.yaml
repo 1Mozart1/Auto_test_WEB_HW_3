@@ -1,0 +1,4 @@
+site: https://test-stand.gb.ru/
+site_login: https://test-stand.gb.ru/login
+browser: firefox
+sleep_time: 1
